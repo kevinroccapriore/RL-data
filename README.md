@@ -11,3 +11,6 @@ The purpose of this data is to utilize reinforcement learning (RL) to explore an
 1. Image 1 (before)
 2. Beam positions in time
 3. Image 2 (after)
+
+The data is freely available here:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6633625.svg)](https://doi.org/10.5281/zenodo.6633625)
